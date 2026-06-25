@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="700" alt="Formula 1 Racing">
 </p>
 
-## 🏁 Overview
+## 🏁 Overview💨
 
 Welcome to my **Flagship Portfolio Project** — a Formula 1 inspired personal portfolio designed to combine **speed, performance, engineering precision, and modern web design** into a single immersive experience.
 
@@ -110,7 +110,7 @@ Every animation and transition was carefully designed to enhance the overall exp
 
 ---
 
-## 📈 What I Learned
+## 📈 What I Learned🗽
 
 Through this project, I strengthened my skills in:
 
@@ -123,7 +123,7 @@ Through this project, I strengthened my skills in:
 
 ---
 
-## 🏆 Project Highlights
+## 🏆 Project Highlights🪐
 
 ✅ Multiple portfolio iterations before final version
 
