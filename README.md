@@ -20,9 +20,9 @@ Unlike a traditional portfolio, this project transforms my personal website into
 
 After building multiple portfolio versions and experimenting with different themes, I wanted to create a project that truly represented:
 
-🏎️ Passion for Engineering
+🏎️ Passion for Engineering.
 
-⚡ Continuous Improvement
+⚡ Continuous Improvement.
 
 🚀 High Performance
 
