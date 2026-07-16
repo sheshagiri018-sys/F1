@@ -38,12 +38,12 @@ This portfolio became the culmination of everything I learned throughout my fron
 
 Inspired by:
 
-* 🏁 Formula 1 Racing
-* 🔴 Performance Car Aesthetics
-* ⚡ High-Speed Motion Graphics
-* 🎛️ Digital Racing Dashboards
-* 🚦 Race Telemetry Systems
-* 🏎️ Motorsport Branding
+* 🏁 Formula 1 Racing.
+* 🔴 Performance Car Aesthetics.
+* ⚡ High-Speed Motion Graphics.
+* 🎛️ Digital Racing Dashboards.
+* 🚦 Race Telemetry Systems.
+* 🏎️ Motorsport Branding.
 
 The entire interface is designed to feel fast, modern, and performance-driven.
 
