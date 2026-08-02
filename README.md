@@ -12,7 +12,7 @@
 
 Welcome to my **Flagship Portfolio Project** — a Formula 1 inspired personal portfolio designed to combine **speed, performance, engineering precision, and modern web design** into a single immersive experience.
 
-Unlike a traditional portfolio, this project transforms my personal website into a racing-themed digital journey, where every section is carefully crafted to reflect the excitement and innovation associated with Formula 1.
+Unlike a traditional portfolio, this project transforms my personal website into a racing-themed digital journey, where every section is carefully crafted to reflect the excitement and innovation associated with Formula 1..
 
 ---
 
@@ -57,7 +57,7 @@ The entire interface is designed to feel fast, modern, and performance-driven.
 * 🏁 Race-themed transitions
 * 🔥 Dynamic visual effects
 * 🎯 Interactive sections
-* 🚀 Performance-focused UI
+* 🚀 Performance-focused UI.
 
 ### 🎨 Modern Design Elements
 
